@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek Jadhav
+- 👋 Hi, I’m @Abhishek Jadhav
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Ineuron 
